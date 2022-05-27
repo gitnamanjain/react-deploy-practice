@@ -1,8 +1,5 @@
 ## Seed code - Boilerplate
 
-### Instructions
-Refer the PROBLEM.md file for the problem description.
+### Deployed at
 
-#### To use this as a boilerplate for your assignment, please follow below step.
-
-1. **FORK** this repository in your Gitlab account
+https://primeval-aspect-279017.web.app/
